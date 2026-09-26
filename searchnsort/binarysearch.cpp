@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// For binary search time complexity is O(logn)
+
 // Only for increasing sequence
 int binarySearch(int arr[], int size, int key){
 
