@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-    // OPTIMAL SOLUTION
+    // OPTIMAL SOLUTION(euclidean algorithm)
     int a, b;
     cout<<"Enter value of a: ";
     cin>>a;
